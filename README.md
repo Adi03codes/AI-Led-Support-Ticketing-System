@@ -1,4 +1,4 @@
-# AI-Led-Support-Ticketing-System
+#Intelligent Fault Reporting and Resolution System using NLP
 
 
 A smart, full-stack customer support ticketing system powered by AI. This platform helps companies manage customer queries more efficiently by automating ticket categorization and prioritization using NLP models (such as OpenAI GPT). Built with **React.js**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates strong backend and frontend integration, advanced API usage, and a modern UI framework.
